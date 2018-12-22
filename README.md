@@ -1,6 +1,6 @@
 # GaloOnline
 
-Distributed tic-tac-toe python project developed for Introduction to Computer Networks course.
+Distributed tic-tac-toe python project developed for [Introduction to Computer Networks](https://fenix.tecnico.ulisboa.pt/disciplinas/IRC101113/2015-2016/2-semestre) course in the 2nd semester of 2015/2016 at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/).
 
 ## Authors
 
